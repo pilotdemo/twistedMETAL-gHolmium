@@ -1,0 +1,5 @@
+{
+  "name": "Prompt Miner v2.6",
+  "description": "A cyberpunk-themed dashboard for researching and mining prompt engineering data using Gemini Search Grounding.",
+  "requestFramePermissions": []
+}
